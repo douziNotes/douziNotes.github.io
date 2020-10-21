@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://douzinotes.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://douzinotes.github.io/"/>
+  <updated>2020-10-20T07:16:26.145Z</updated>
+  <id>https://douzinotes.github.io/</id>
+  
+  <author>
+    <name>douziNotes</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>firstBlog</title>
+    <link href="https://douzinotes.github.io/uncategorized/firstBlog/"/>
+    <id>https://douzinotes.github.io/uncategorized/firstBlog/</id>
+    <published>2020-10-20T06:59:28.000Z</published>
+    <updated>2020-10-20T07:16:26.145Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;firstblog&quot;&gt;&lt;a href=&quot;#firstblog&quot; class=&quot;headerlink&quot; title=&quot;firstblog&quot;&gt;&lt;/a&gt;firstblog&lt;/h1&gt;&lt;h2 id=&quot;这是一个测试&quot;&gt;&lt;a href=&quot;#这是一个测试&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://douzinotes.github.io/uncategorized/hello-world/"/>
+    <id>https://douzinotes.github.io/uncategorized/hello-world/</id>
+    <published>2020-10-19T08:16:17.808Z</published>
+    <updated>2020-10-20T06:32:32.669Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
