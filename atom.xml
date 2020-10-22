@@ -6,7 +6,7 @@
   <link href="https://douzinotes.github.io/atom.xml" rel="self"/>
   
   <link href="https://douzinotes.github.io/"/>
-  <updated>2020-10-22T06:55:28.627Z</updated>
+  <updated>2020-10-22T06:56:02.024Z</updated>
   <id>https://douzinotes.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>firstBlog</title>
-    <link href="https://douzinotes.github.io/%E6%8A%80%E6%9C%AF/firstBlog/"/>
-    <id>https://douzinotes.github.io/%E6%8A%80%E6%9C%AF/firstBlog/</id>
-    <published>2020-10-20T06:59:28.000Z</published>
-    <updated>2020-10-22T06:55:28.627Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;firstblog&quot;&gt;&lt;a href=&quot;#firstblog&quot; class=&quot;headerlink&quot; title=&quot;firstblog&quot;&gt;&lt;/a&gt;firstblog&lt;/h1&gt;&lt;h2 id=&quot;这是一个测试&quot;&gt;&lt;a href=&quot;#这是一个测试&quot; class=&quot;head</summary>
-      
-    
-    
-    
-    <category term="技术" scheme="https://douzinotes.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="测试" scheme="https://douzinotes.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
