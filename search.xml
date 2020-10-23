@@ -4,7 +4,9 @@
     <title>Java 学习笔记</title>
     <url>/douziNotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="Java学习笔记"><a href="#Java学习笔记" class="headerlink" title="Java学习笔记"></a>Java学习笔记</h1><hr>
-<h2 id="第一章：Java的基本程序设计结构"><a href="#第一章：Java的基本程序设计结构" class="headerlink" title="第一章：Java的基本程序设计结构"></a>第一章：Java的基本程序设计结构</h2><h3 id="1-1-注释"><a href="#1-1-注释" class="headerlink" title="1.1 注释"></a>1.1 注释</h3><p>Java的注释有三种，第一种是单行注释 <code>//</code>,第二种是多行注释 <code>/* */</code>，第三种可以用来自动地生成文档，以 <code>/**</code> 开头，以 <code>*/</code>结尾。</p>
+<h2 id="第一章：Java的基本程序设计结构"><a href="#第一章：Java的基本程序设计结构" class="headerlink" title="第一章：Java的基本程序设计结构"></a>第一章：Java的基本程序设计结构</h2> <a id="more"></a>
+
+<h3 id="1-1-注释"><a href="#1-1-注释" class="headerlink" title="1.1 注释"></a>1.1 注释</h3><p>Java的注释有三种，第一种是单行注释 <code>//</code>,第二种是多行注释 <code>/* */</code>，第三种可以用来自动地生成文档，以 <code>/**</code> 开头，以 <code>*/</code>结尾。</p>
 <hr>
 <h3 id="1-2-数据类型"><a href="#1-2-数据类型" class="headerlink" title="1.2 数据类型"></a>1.2 数据类型</h3><p>Java是一种强类型语言，必须为每一个变量声明一种类型。<br>Java中一共有8种基本类型：4种整形，2种浮点类型，1种字符类型、一种用于表示真值的<code>boolean</code>类型。</p>
 <h4 id="1-2-1-整形"><a href="#1-2-1-整形" class="headerlink" title="1.2.1 整形"></a>1.2.1 整形</h4><p>整形用于表示没有小数部分的数值，允许是负数。<br>表1：Java整形</p>
