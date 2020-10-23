@@ -6,7 +6,7 @@
   <link href="https://douzinotes.github.io/atom.xml" rel="self"/>
   
   <link href="https://douzinotes.github.io/"/>
-  <updated>2020-10-22T06:56:02.024Z</updated>
+  <updated>2020-10-23T09:12:43.346Z</updated>
   <id>https://douzinotes.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java 学习笔记</title>
+    <link href="https://douzinotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://douzinotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-10-23T06:58:30.000Z</published>
+    <updated>2020-10-23T09:12:43.346Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#Java学习笔记&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;##第一章：Java的基本程序设计结构&lt;br&gt;###1.1 注释&lt;br&gt;Java的注释有三种，第一种是单行注释 &lt;code&gt;//&lt;/code&gt;,第二种是多行注释 &lt;code&gt;/* */&lt;/code&gt;，第三种可以用来自动地生成文档，</summary>
+      
+    
+    
+    
+    <category term="Java" scheme="https://douzinotes.github.io/categories/Java/"/>
+    
+    
+    <category term="Java基础知识" scheme="https://douzinotes.github.io/tags/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
