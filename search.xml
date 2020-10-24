@@ -171,6 +171,14 @@
 <li>API<br>好多好多。。。</li>
 </ol>
 <hr>
+<h3 id="1-6-输入输出"><a href="#1-6-输入输出" class="headerlink" title="1.6 输入输出"></a>1.6 输入输出</h3><h4 id="1-6-1-读取输入"><a href="#1-6-1-读取输入" class="headerlink" title="1.6.1 读取输入"></a>1.6.1 读取输入</h4><p>“标准输入流”<code>System.in</code>使用时首先需要构造一个与标准输入流关联的Scanner对象。<code>eg:Scanner in = new Scanner(System.in);</code>，然后就可以使用scanner类的各种方法进行读取输入了。<br><code>nextLine方法将读取一行输入； nextInt读取一个整数 nextDouble读取下一个浮点数</code></p>
+<h4 id="1-6-2-格式化输出"><a href="#1-6-2-格式化输出" class="headerlink" title="1.6.2 格式化输出"></a>1.6.2 格式化输出</h4><p>Java5沿用了c语言函数库中的printf方法。<br>可以使用静态的String.format方法创建一个格式化的字符串，而不打印输出。</p>
+<h4 id="1-6-3文件的输入与输出"><a href="#1-6-3文件的输入与输出" class="headerlink" title="1.6.3文件的输入与输出"></a>1.6.3文件的输入与输出</h4><p>要想读取一个文件，需要构建一个scanner对象，<code>eg:Scanner in = new Scanner(path.of(&quot;myfile.txt&quot;),StandardCharsets.UTF_8);</code><br><strong>如果文件名中包含反斜杠符号，就要在每个反斜杠前加一个反斜杠转义。</strong><br>要想写入文件，就需要构建一个PrintWriter对象，在构建器中需要提供文件名和字符编码。<br><code>eg: PrintWriter out = new PrintWriter(&quot;myfile.txt,StandardCharsets.UTF_8&quot;);</code><br>如果文件不存在，就创建文件。</p>
+<hr>
+<h3 id="1-7-数组"><a href="#1-7-数组" class="headerlink" title="1.7 数组"></a>1.7 数组</h3><h4 id="1-7-1-声明数组"><a href="#1-7-1-声明数组" class="headerlink" title="1.7.1 声明数组"></a>1.7.1 声明数组</h4><p>在声明数组时需要指明数组的类型和变量名，<code>eg：int []a;</code><br>使用new操作符创建数组：<br><code>int []a = new int[100];</code><br><strong>数组长度不要求是常量：<code>new int[n]会创建一个长度为n的数组</code></strong><br>如果需要扩展数组的大小，就需要使用另一种数据结构——数组列表。<br>也可以使用<code>int []a = &#123;1,2,3,4&#125;;</code>这种形式来创建数组并同时初始化，这种方法不需要new，甚至不需要指明数组长度。而且<strong>最后一个值后面允许有逗号</strong></p>
+<h4 id="1-7-2-访问数组元素"><a href="#1-7-2-访问数组元素" class="headerlink" title="1.7.2 访问数组元素"></a>1.7.2 访问数组元素</h4><p>获取数组中的元素个数可以使用<code>array.length;</code>.<br>根据下标访问数组元素。<br><code>for each循环</code><br><code>eg: for( int element : a) System.out.println(element); 读作“循环a中的每一个元素”</code><br>该语句的循环变量将会遍历数组中的每个元素，而不是下标。</p>
+<h4 id="1-7-3-数组拷贝"><a href="#1-7-3-数组拷贝" class="headerlink" title="1.7.3 数组拷贝"></a>1.7.3 数组拷贝</h4><p><strong>在Java中，允许讲一个数组变量拷贝到另一个数组变量。这时两个变量将引用同一个数组。</strong><br><code>eg: int []a = b;</code><br>将一个数组中的所有值拷贝到另一个数组就需要使用arrays类的<code>copyOf</code>方法。<br><code>int a = Arrays.copyOf(b,b.length);</code><br><strong>数组排序使用Arrays类中的sort方法。</strong></p>
+<hr>
 ]]></content>
       <categories>
         <category>Java</category>
