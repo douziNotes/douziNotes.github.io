@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Java 学习笔记-第二章</title>
+    <url>/douziNotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E7%AC%AC%E4%BA%8C%E7%AB%A0/</url>
+    <content><![CDATA[<h2 id="第二章-对象与类"><a href="#第二章-对象与类" class="headerlink" title="第二章 对象与类"></a>第二章 对象与类</h2><h3 id="4-1-面向对象编程oop"><a href="#4-1-面向对象编程oop" class="headerlink" title="4.1 面向对象编程oop"></a>4.1 面向对象编程oop</h3><h4 id="4-1-1-类"><a href="#4-1-1-类" class="headerlink" title="4.1.1 类"></a>4.1.1 类</h4><p>类是构造对象的模板或蓝图，由类构造对象的过程称为创建类的实例。</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Java 学习笔记</title>
     <url>/douziNotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="Java学习笔记"><a href="#Java学习笔记" class="headerlink" title="Java学习笔记"></a>Java学习笔记</h1><hr>

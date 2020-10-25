@@ -6,7 +6,7 @@
   <link href="https://douzinotes.github.io/atom.xml" rel="self"/>
   
   <link href="https://douzinotes.github.io/"/>
-  <updated>2020-10-24T07:44:41.963Z</updated>
+  <updated>2020-10-25T08:44:58.484Z</updated>
   <id>https://douzinotes.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java 学习笔记-第二章</title>
+    <link href="https://douzinotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E7%AC%AC%E4%BA%8C%E7%AB%A0/"/>
+    <id>https://douzinotes.github.io/Java/Java-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E7%AC%AC%E4%BA%8C%E7%AB%A0/</id>
+    <published>2020-10-25T08:40:03.000Z</published>
+    <updated>2020-10-25T08:44:58.484Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第二章-对象与类&quot;&gt;&lt;a href=&quot;#第二章-对象与类&quot; class=&quot;headerlink&quot; title=&quot;第二章 对象与类&quot;&gt;&lt;/a&gt;第二章 对象与类&lt;/h2&gt;&lt;h3 id=&quot;4-1-面向对象编程oop&quot;&gt;&lt;a href=&quot;#4-1-面向对象编程oop&quot; c</summary>
+      
+    
+    
+    
+    <category term="Java" scheme="https://douzinotes.github.io/categories/Java/"/>
+    
+    
+    <category term="Java基础知识" scheme="https://douzinotes.github.io/tags/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Java 学习笔记</title>
